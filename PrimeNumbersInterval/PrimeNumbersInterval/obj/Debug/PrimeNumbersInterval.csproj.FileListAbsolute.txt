@@ -1,0 +1,8 @@
+C:\PrimeNumbersInterval\PrimeNumbersInterval\obj\Debug\PrimeNumbersInterval.csprojResolveAssemblyReference.cache
+C:\PrimeNumbersInterval\PrimeNumbersInterval\obj\Debug\PrimeNumbersInterval.MainForm.resources
+C:\PrimeNumbersInterval\PrimeNumbersInterval\obj\Debug\PrimeNumbersInterval.csproj.GenerateResource.Cache
+C:\PrimeNumbersInterval\PrimeNumbersInterval\bin\Debug\PrimeNumbersInterval.exe.config
+C:\PrimeNumbersInterval\PrimeNumbersInterval\bin\Debug\PrimeNumbersInterval.exe
+C:\PrimeNumbersInterval\PrimeNumbersInterval\bin\Debug\PrimeNumbersInterval.pdb
+C:\PrimeNumbersInterval\PrimeNumbersInterval\obj\Debug\PrimeNumbersInterval.exe
+C:\PrimeNumbersInterval\PrimeNumbersInterval\obj\Debug\PrimeNumbersInterval.pdb

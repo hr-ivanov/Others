@@ -1,0 +1,6 @@
+C:\Users\Stan\Desktop\InformatikaZadachi\BestFriend\BestFriend\bin\Debug\BestFriend.exe.config
+C:\Users\Stan\Desktop\InformatikaZadachi\BestFriend\BestFriend\bin\Debug\BestFriend.exe
+C:\Users\Stan\Desktop\InformatikaZadachi\BestFriend\BestFriend\bin\Debug\BestFriend.pdb
+C:\Users\Stan\Desktop\InformatikaZadachi\BestFriend\BestFriend\obj\Debug\BestFriend.csprojResolveAssemblyReference.cache
+C:\Users\Stan\Desktop\InformatikaZadachi\BestFriend\BestFriend\obj\Debug\BestFriend.exe
+C:\Users\Stan\Desktop\InformatikaZadachi\BestFriend\BestFriend\obj\Debug\BestFriend.pdb

@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\InformatikaZadachi\BestFriend\BestFriend\bin\Release\BestFriend.exe.config
+C:\Users\User\Desktop\InformatikaZadachi\BestFriend\BestFriend\bin\Release\BestFriend.exe
+C:\Users\User\Desktop\InformatikaZadachi\BestFriend\BestFriend\obj\Release\BestFriend.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\InformatikaZadachi\BestFriend\BestFriend\obj\Release\BestFriend.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\InformatikaZadachi\BestFriend\BestFriend\obj\Release\BestFriend.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\InformatikaZadachi\BestFriend\BestFriend\obj\Release\BestFriend.exe
